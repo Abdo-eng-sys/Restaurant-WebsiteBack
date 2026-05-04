@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d575bd4.css",
+    "main.js": "/static/js/main.31f4b08b.js",
+    "static/media/pexels-naimbic-2287523.jpg": "/static/media/pexels-naimbic-2287523.6d6631904bf1411bf311.jpg",
+    "static/media/pexels-tartanribbonmx-33732005.jpg": "/static/media/pexels-tartanribbonmx-33732005.2a47b7bbd60c4aeb27de.jpg",
+    "static/media/pexels-immortelleana-10445929.jpg": "/static/media/pexels-immortelleana-10445929.79598116583a7fa786dd.jpg",
+    "static/media/pexels-thirdman-8487251.jpg": "/static/media/pexels-thirdman-8487251.939c19f41a17eb34059c.jpg",
+    "static/media/pexels-christian-alvarez-116752650-12786935.jpg": "/static/media/pexels-christian-alvarez-116752650-12786935.883eb709343cbc3fd278.jpg",
+    "static/media/pexels-gustavo-fring-6050294.jpg": "/static/media/pexels-gustavo-fring-6050294.38cb2f03500aa9e9474e.jpg",
+    "static/media/pexels-christa-8332229-33748244.jpg": "/static/media/pexels-christa-8332229-33748244.e5650d639df6abc0b814.jpg",
+    "static/media/pexels-kampus-8629106.jpg": "/static/media/pexels-kampus-8629106.5637b7184111da70bffc.jpg",
+    "static/media/pexels-lucaluperto-17237176.jpg": "/static/media/pexels-lucaluperto-17237176.909206ecc627eaf55e5a.jpg",
+    "static/media/pexels-magda-ehlers-pexels-3822749.jpg": "/static/media/pexels-magda-ehlers-pexels-3822749.4be54f055f1fc98f98d3.jpg",
+    "static/media/pexels-chetanvlad-2600204.jpg": "/static/media/pexels-chetanvlad-2600204.8183081719d58bc7f4ec.jpg",
+    "static/media/pexels-rhk-photo-67119324-15963714.jpg": "/static/media/pexels-rhk-photo-67119324-15963714.115de3bc132e489db60f.jpg",
+    "index.html": "/index.html",
+    "main.0d575bd4.css.map": "/static/css/main.0d575bd4.css.map",
+    "main.31f4b08b.js.map": "/static/js/main.31f4b08b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d575bd4.css",
+    "static/js/main.31f4b08b.js"
+  ]
+}
